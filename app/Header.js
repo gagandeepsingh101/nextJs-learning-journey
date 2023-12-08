@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Search from "./components/client/Search";
+import Search from "/components/client/Search";
 
 const Header = () => {
   return (

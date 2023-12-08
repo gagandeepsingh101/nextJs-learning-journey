@@ -1,5 +1,5 @@
 import React from 'react'
-import ServerComponent from '../components/server/ServerComponent'
+import ServerComponent from '/components/server/ServerComponent'
 import Contact from './contact'
 
 // It is correct way to used server side component in client component
